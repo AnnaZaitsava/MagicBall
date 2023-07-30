@@ -41,7 +41,7 @@
                                                 </constraints>
                                             </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uWX-y3-JPW">
-                                                <rect key="frame" x="0.0" y="169.33333333333334" width="393" height="383.66666666666663"/>
+                                                <rect key="frame" x="0.0" y="169.33333333333337" width="393" height="381"/>
                                                 <subviews>
                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BALL1" translatesAutoresizingMaskIntoConstraints="NO" id="ZeK-Gj-MJ3">
                                                         <rect key="frame" x="25.666666666666657" y="20" width="341.66666666666674" height="341.66666666666669"/>
@@ -55,7 +55,7 @@
                                                 </constraints>
                                             </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="x3Z-3A-faV">
-                                                <rect key="frame" x="17" y="632" width="359" height="127"/>
+                                                <rect key="frame" x="17" y="629.33333333333337" width="359" height="129.66666666666663"/>
                                                 <subviews>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2cQ-24-a7x">
                                                         <rect key="frame" x="29.666666666666657" y="20" width="300" height="60"/>
@@ -98,9 +98,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.96862745098039216" green="0.92156862745098034" blue="0.87450980392156863" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="JyS-Jn-eHg" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="9uw-lg-wo9"/>
+                            <constraint firstItem="JyS-Jn-eHg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="9uw-lg-wo9"/>
                             <constraint firstItem="JyS-Jn-eHg" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="MpC-6O-FdV"/>
-                            <constraint firstAttribute="trailing" secondItem="JyS-Jn-eHg" secondAttribute="trailing" id="pgK-Iy-4Qc"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="JyS-Jn-eHg" secondAttribute="trailing" id="pgK-Iy-4Qc"/>
                             <constraint firstItem="JyS-Jn-eHg" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="sVq-78-U1C"/>
                         </constraints>
                     </view>

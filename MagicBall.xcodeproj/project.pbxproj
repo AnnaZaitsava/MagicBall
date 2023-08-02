@@ -17,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		795310432A7AE86A0007B2B7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		795310442A7AEB040007B2B7 /* screenshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshot.gif; sourceTree = "<group>"; };
 		D63439C02A6B998600A8E299 /* MagicBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D63439C32A6B998600A8E299 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,7 +64,6 @@
 				D63439C92A6B998600A8E299 /* Main.storyboard */,
 				D63439CC2A6B998800A8E299 /* Assets.xcassets */,
 				D63439CE2A6B998800A8E299 /* LaunchScreen.storyboard */,
-				795310432A7AE86A0007B2B7 /* README.md */,
 				795310442A7AEB040007B2B7 /* screenshot.gif */,
 				D63439D12A6B998800A8E299 /* Info.plist */,
 			);
